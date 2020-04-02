@@ -1,0 +1,12 @@
+VeuJS:
+Homework
+
+You have to develop an application that shows a list of beers in a table with 3 colums: id, name, image, actions [optional: filter by name and server side pagination].
+The action column show two buttons: 'detail' and 'add to cart':
+'detail' -> show all beer details in a new page and 'add to cart' button
+'add to cart' -> add the beer to the cart
+You have to show the number of beers in the cart in a counter on top of the application always visible (es: navbar).
+You have to use Vue.js but you're free to use other external libraries as you prefer (ex: Typescript, Bulma/Buefy, Axios, ....)
+
+API: https://punkapi.com/documentation/v2
+Punk API: Brewdog's DIY Dog as an API
